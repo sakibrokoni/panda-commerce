@@ -1,0 +1,14 @@
+.panda-bg-color{
+    background-color: #feeae9da;
+}
+.panda-commerce-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+
+}
+.catagories img{
+    width: 100px;
+}
